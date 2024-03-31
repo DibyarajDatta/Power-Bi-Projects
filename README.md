@@ -5,8 +5,8 @@ A Netflix associate wants to understand the frequency of shows being released on
 
 # ✨ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫 𝐁𝐢
 # ✨𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞:
-🍁 Data Cleaning
-🍁 Data Transformation
+1. 🍁 Data Cleaning
+2. 🍁 Data Transformation
 🍁 Data Modelling
 🍁 Data Visualization
 🍁 Findings/Insights
