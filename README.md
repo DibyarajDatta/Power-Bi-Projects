@@ -3,7 +3,7 @@
 Business Problem
 A Netflix associate wants to understand the frequency of shows being released on Netflix, what are the popular genres, how are the shows rated, etc. They also want to understand these aspects based on different dates it gets released on the Netflix Platform and compares stats based on Movies or TV Shows alone.
 
-✨ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫 𝐁𝐢
+# ✨ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫 𝐁𝐢
 ✨𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞:
 🍁 Data Cleaning
 🍁 Data Transformation
