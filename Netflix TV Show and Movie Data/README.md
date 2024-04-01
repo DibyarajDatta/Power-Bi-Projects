@@ -5,11 +5,11 @@ A Netflix associate wants to understand the frequency of shows being released on
 
 # ✨ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫 𝐁𝐢
 # ✨𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐫𝐨𝐜𝐞𝐝𝐮𝐫𝐞:
-1. 🍁 Data Cleaning
-2. 🍁 Data Transformation
-3. 🍁 Data Modelling
-4. 🍁 Data Visualization
-5. 🍁 Findings/Insights
+🍁 Data Cleaning
+🍁 Data Transformation
+🍁 Data Modelling
+🍁 Data Visualization
+🍁 Findings/Insights
 # ✨𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 :
 1. 🍁 A total of 334 shows have been released in each genre.
 2. 🍁 Between 2008 and 2021, there were more movies released than TV shows, accounting for 69.12% of the total.
